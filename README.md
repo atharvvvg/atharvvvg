@@ -19,5 +19,7 @@ Here are some ideas to get you started:
 
 - 👋 Hi, I’m Atharv Gupta
 - 🌱 I know Python, C and C++, HTML/CSS while I'm currently learning Java and Javascript.
-- 📫 How to reach me? atharv230303@gmail.com <br /><br />
+- 📫 How to reach me? atharv230303@gmail.com
+- Visit https://atharvvvg.github.io/
+<br /><br />
 ![Profile views](https://gpvc.arturio.dev/atharvvvg)
