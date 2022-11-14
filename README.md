@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 👋 Hi, I’m Atharv Gupta
+- 🌱 I know Python, C and C++, HTML/CSS while I'm currently learning Java and Javascript.
+- 📫 How to reach me? atharv230303@gmail.com
+![Profile views](https://gpvc.arturio.dev/atharvvvg)
