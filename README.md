@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hello👋 I'm Atharv Gupta<br>👋 Hi, I’m Atharv Gupta<br>🌱 I know Python, C and C++, HTML/CSS while I'm currently learning Java and Javascript.<br>📫 How to reach me? atharv230303@gmail.com<br>Visit https://atharvvvg.github.io/<br>
 
+![Profile views](https://gpvc.arturio.dev/atharvvvg)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/atharv-gupta-039805210/) 
@@ -11,6 +12,3 @@ Hello👋 I'm Atharv Gupta<br>👋 Hi, I’m Atharv Gupta<br>🌱 I know Python,
 ![](https://github-readme-stats.vercel.app/api?username=atharvvvg&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=atharvvvg&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvvvg&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-![Profile views](https://gpvc.arturio.dev/atharvvvg)
