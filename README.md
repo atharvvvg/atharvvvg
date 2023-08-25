@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atharv</h1>
-<h3 align="center">Student, trying to do development while learning **Cyber Security**</h3>
+<h3 align="center">Student, trying to do development, learning Cyber Security</h3>
 
 - 📫 How to reach me **atharv230303@gmail.com**
 
