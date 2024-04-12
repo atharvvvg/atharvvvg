@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Atharv</h1>
 <h3 align="center">Student @ VIT University, trying to do development, learning Data Science</h3>
 
-[portfolio website](https://atharvvvg.github.io/)
 
-- 📫 How to reach me **atharv230303@gmail.com**
+-  [Portfolio Website](https://atharvvvg.github.io/)
+-  📫 How to reach me **atharv230303@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
