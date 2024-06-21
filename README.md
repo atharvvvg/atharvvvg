@@ -2,7 +2,6 @@
 <h3 align="center">Student @ VIT University, trying to do development, learning Data Science</h3>
 
 
--  [Portfolio Website](https://atharvvvg.github.io/)
 -  📫 How to reach me **atharv230303@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
